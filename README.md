@@ -1,0 +1,3 @@
+# Web-scraping-rail-information
+PythonでヤフーのサイトからWebスクレイピングするサンプルコードを京王線のURLに置き換えたやつです
+後でサーバー上に載せておいて実装しHTTP通信でスマホ側で表示する予定
